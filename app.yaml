@@ -2,6 +2,7 @@ application: sylvan-shuttle-770
 version: 1
 runtime: php
 api_version: 1
+threadsafe: true
 
 handlers:
 - url: /.*
