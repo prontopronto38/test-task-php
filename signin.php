@@ -1,4 +1,3 @@
-Test
 <?php
 
 use google\appengine\api\users\User;
