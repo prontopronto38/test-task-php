@@ -1,7 +1,14 @@
 <html>
   <!-- [START csslink] -->
   <head>
-    <link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
+    <!--<link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />-->
+    <STYLE type="text/css">
+<!--
+   H1 { color: red }
+   P  { color: blue}
+   -->
+   background-color: red;
+</STYLE>
   </head>
   <!-- [END csslink] -->
   <body>
