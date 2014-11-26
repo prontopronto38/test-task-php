@@ -13,3 +13,7 @@ handlers:
 #- url: /.*
 - url: /
   script: signin.php
+
+handlers:
+- url: /style.css
+  static_files: style.css
