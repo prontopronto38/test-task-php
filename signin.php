@@ -8,7 +8,7 @@
    H1 { color: red }
    P  { color: blue}
    -->
-   <!--BODY { background-color: red }
+   <!--BODY { background-color: blue }
 </STYLE>-->
   </head>
   <!-- [END csslink] -->
