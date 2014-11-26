@@ -15,5 +15,5 @@ handlers:
   script: signin.php
 
 handlers:
-- url: /style.css
-  static_files: style.css
+- url: /
+  static_dir: /
