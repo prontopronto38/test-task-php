@@ -3,13 +3,6 @@
   <head>
     <!--<link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />-->
         <link type="text/css" rel="stylesheet" href="style.css" />
-    <!--<STYLE type="text/css">-->
-<!--
-   H1 { color: red }
-   P  { color: blue}
-   -->
-   <!--BODY { background-color: blue }
-</STYLE>-->
   </head>
   <!-- [END csslink] -->
   <body>
