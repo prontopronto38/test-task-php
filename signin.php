@@ -2,13 +2,14 @@
   <!-- [START csslink] -->
   <head>
     <!--<link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />-->
-    <STYLE type="text/css">
+        <link type="text/css" rel="stylesheet" href="style.css" />
+    <!--<STYLE type="text/css">-->
 <!--
    H1 { color: red }
    P  { color: blue}
    -->
-   BODY { background-color: red }
-</STYLE>
+   <!--BODY { background-color: red }
+</STYLE>-->
   </head>
   <!-- [END csslink] -->
   <body>
