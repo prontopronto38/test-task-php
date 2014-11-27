@@ -6,7 +6,7 @@ threadsafe: true
 
 handlers:
 - url: /stylesheets
-  static_dir: /stylesheets
+  static_dir: stylesheets
 
 handlers:
 - url: /.*
