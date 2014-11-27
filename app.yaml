@@ -4,11 +4,10 @@ runtime: php
 api_version: 1
 threadsafe: true
 
+handlers:
+- url: /.*
+  script: signin.php
 
 handlers:
 - url: /stylesheets
   static_dir: stylesheets
-
-handlers:
-- url: /.*
-  script: signin.php
