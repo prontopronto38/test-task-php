@@ -10,6 +10,5 @@ handlers:
   static_dir: stylesheets
 
 handlers:
-#- url: /.*
-- url: /
+- url: /.*
   script: signin.php
