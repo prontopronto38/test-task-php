@@ -1,7 +1,7 @@
 <html>
   <!-- [START csslink] -->
   <head>
-        <link type="text/css" rel="stylesheet" href="style.css" />
+        <link type="text/css" rel="stylesheet" href="stylesheets/main.css" />
   </head>
   <!-- [END csslink] -->
   <body>
