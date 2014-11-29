@@ -8,5 +8,8 @@ handlers:
 - url: /stylesheets
   static_dir: stylesheets
 
+- url: /test
+  script: test-task-php.php
+  
 - url: /.*
   script: signin.php
