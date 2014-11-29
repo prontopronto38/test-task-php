@@ -8,6 +8,5 @@ handlers:
 - url: /stylesheets
   static_dir: stylesheets
 
-handlers:
 - url: /.*
   script: signin.php
