@@ -10,6 +10,7 @@
       echo "You wrote:<pre>\n";
       echo htmlspecialchars($_POST['content']);
       echo "\n</pre>";
+      echo "\n"+mysql_connect("");
     }
     ?>
     <form action="/sign" method="post">
