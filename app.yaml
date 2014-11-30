@@ -11,6 +11,9 @@ handlers:
 - url: /test
   script: test-task-php.php
   
+- url: /profile
+  script: profile.php
+  
 - url: /.*
   script: signin.php
 
