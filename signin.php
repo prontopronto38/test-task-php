@@ -12,10 +12,12 @@
       echo "\n</pre>";
       echo "\n"+mysql_connect("");
       echo "\n".mysql_connect("");
+      echo "\n".upload($_POST['image']);
     }
     ?>
     <form action="/sign" method="post">
       <div><textarea name="content" rows="3" cols="60"></textarea></div>
+      <div><textarea name="image" rows="2" cols=60></textarea></div>
       <div><input type="submit" value="Sign Guestbook"></div>
     </form>
   </body>
