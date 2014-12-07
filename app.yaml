@@ -14,6 +14,9 @@ handlers:
 - url: /profile
   script: profile.php
   
+  - url: /images
+   static_dir: images
+
 - url: /.*
   script: signin.php
 
