@@ -11,6 +11,7 @@
       echo htmlspecialchars($_POST['content']);
       echo "\n</pre>";
       echo "\n"+mysql_connect("");
+      echo "\n".mysql_connect("");
     }
     ?>
     <form action="/sign" method="post">
